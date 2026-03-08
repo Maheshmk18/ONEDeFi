@@ -4,7 +4,7 @@
 ## 🚀 Project Information
 
 **Primary Contact**: J Madhan  - [@MadhanJ https://t.me/MadhanJ 
-**Team**: Solo  
+**Team**:Madhan J ,Mahesh K , Nikhil Kumar K ,Ramcharan NL
 **Project Title**: ONEDeFi - AI-Powered Multi-Chain DeFi MCP Server  
 
 ## 💡 One-Sentence Elevator Pitch
